@@ -9,7 +9,6 @@ I’m passionate about coding, gaming, and building cool projects.
 - 🔭 I’m currently working on: *Game servers, bots, and web apps.*
 - 🌱 Learning: *Advanced C++, Node.js, Rust, and cloud infra.*
 - 💬 Ask me about: *Game development, backend, and server optimization.*
-- 🌐 Website: [zrawh.me](https://zrawh.me)
 
 ---
 
